@@ -1,0 +1,4 @@
+./api-server/node-modules
+./build-server/node-modules
+./s3-reverse-proxy/node-modules
+./build-server/.env
